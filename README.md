@@ -2,10 +2,11 @@ OSS_TermProject
 ==============
 CalenderApp
 ----------
-#Ä¶¸°´õ ºä¸¦ È°¿ëÇÑ °£´ÜÇÑ ¸Þ¸ðÀå ¾Û
+#ìº˜ë¦°ë” ë·°ë¥¼ í™œìš©í•œ ê°„ë‹¨í•œ ë©”ëª¨ìž¥ ì•±
  
-![home](./img/home.jpg)
-> ³¯Â¥¸¦ ¼±ÅÃÇÏ¿© ¸Þ¸ð ÀÛ¼º °¡´É
 
-![createMemo](./img/createMemo.jpg)
-> txtÆÄÀÏÀ» ÀÌ¿ëÇÏ¿© °£´ÜÇÑ ÆÄÀÏ ÀÔÃâ·ÂÀ¸·Î ±¸Çö
+![home](https://user-images.githubusercontent.com/62785446/86005499-b3350300-ba4f-11ea-8f78-f6112bfed59c.JPG)
+> ë‚ ì§œë¥¼ ì„ íƒí•˜ì—¬ ë©”ëª¨ ìž‘ì„± ê°€ëŠ¥
+
+![createMemo](https://user-images.githubusercontent.com/62785446/86005423-9c8eac00-ba4f-11ea-86e8-61ab2e10c492.JPG)
+> txtíŒŒì¼ì„ ì´ìš©í•˜ì—¬ ê°„ë‹¨í•œ íŒŒì¼ ìž…ì¶œë ¥ìœ¼ë¡œ êµ¬í˜„
