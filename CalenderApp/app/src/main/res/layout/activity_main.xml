@@ -7,12 +7,11 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btn"
         android:layout_width="411dp"
         android:layout_height="40dp"
         android:layout_marginTop="112dp"
-        android:onClick="getDate"
-        android:text="현재 시간 출력"
+        android:text="선택한 날짜로 메모 작성"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -51,7 +50,7 @@
         android:layout_marginTop="37dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="현재 시간 :"
+        android:text="Today :"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -65,5 +64,6 @@
         android:text="선택한 날짜 :"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
